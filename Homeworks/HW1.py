@@ -2,8 +2,6 @@
 #Merge two lists. Multiply all values in the newlist by 2.
 #Use the loop to print the data type of the all values in the new list.
 
-#genel kanalına mesaj gönderork
-
 #Question 1
 list1=[5,9,11,25,33]
 list2=[6,8,10,22,34]
